@@ -14,7 +14,7 @@ To contribute, see [github.com/googlefonts/carlito](https://github.com/googlefon
 
 ## Licensing
 
-Please see [OFL.txt]
+Please see [OFL.txt](OFL.txt)
 
 NOTE: The history of the inclusion of Carlito fonts in this repository can be
 found in this
