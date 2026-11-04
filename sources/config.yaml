@@ -1,0 +1,8 @@
+buildVariable: false
+removeOutlineOverlaps: false
+productionNames: false
+sources:
+  - Carlito-Bold.glyphs
+  - Carlito-BoldItalic.glyphs
+  - Carlito-Italic.glyphs
+  - Carlito-Regular.glyphs
